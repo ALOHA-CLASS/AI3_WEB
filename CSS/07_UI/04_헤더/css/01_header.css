@@ -76,6 +76,11 @@ nav { display: block; height: 100%; }
   opacity: 0.4;
 }
 
+.sitemap a span {
+  position: relative;
+  top: 3px;
+}
+
 /* 섹션 */
 section {
   height: 100vh;
